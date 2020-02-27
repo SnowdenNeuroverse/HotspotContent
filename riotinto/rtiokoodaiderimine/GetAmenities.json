@@ -5,7 +5,7 @@
             "name": "restaurant",
             "title": "Dining Room",
             "openingHours": "4:30am to 8:30am - 4:30pm - 8:30pm",
-            "displayOpeningHours": true,
+            "displayOpeningHours": false,
             "phoneNumber": "",
             "displayPhoneNumber": false,
             "emailAddress": "",
