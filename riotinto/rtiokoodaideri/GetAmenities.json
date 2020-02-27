@@ -27,33 +27,7 @@
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
-        {
-            "amenityId": "C2395D4F-2979-4C32-9330-7E657C3FAF3C",
-            "name": "tavern",
-            "title": "The Jim (Tavern)",
-            "openingHours": "6:30am to 8am - 5:30pm to 7:30pm - 8pm to 9pm",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "tavern-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "Includes a large beer garden",
-                "listTitle": "Things to Know",
-                "listItem1": "Smoking permitted in designated areas",
-                "listItem2": "Take-away sales cannot be consumed in the tavern",
-                "listItem3": "ATM & EFTPOS available"  
-            },
-            "displayPosition": 2,
-            "uxIsSelected": false,
-            "uxIsDisabled": false
-        },
+       
         {
             "amenityId": "2E7FEF9C-7F05-4A89-B602-91BA14AC28C2",
             "name": "gymnasium",
@@ -77,7 +51,7 @@
                 "listItem2": "Induction required",
                 "listItem3": "Cleaning is scheduled between 9am and 10am" 
             },
-            "displayPosition": 3,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
@@ -104,38 +78,10 @@
                 "listItem2": "",
                 "listItem3": ""  
             },
-            "displayPosition": 4,
+            "displayPosition": 3,
             "uxIsSelected": false,
             "uxIsDisabled": false
-        },
-        {
-            "amenityId": "1C0B7299-4E93-43A5-86D2-EACB57887DFD",
-            "name": "golf",
-            "title": "Golfing Facilities",
-            "openingHours": "",
-            "displayOpeningHours": false,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "golf-image-1",
-            "iconClassName": "golf_course",
-            "detail": {
-                "intro": "Putting Green and Driving Range",
-                "listTitle": "",
-                "listItem1": "",
-                "listItem2": "",
-                "listItem3": ""  
-            },
-            "displayPosition": 5,
-            "uxIsSelected": false,
-            "uxIsDisabled": false
-        },
-        
+        }, 
         {
             "amenityId": "82469A16-D135-492A-AC8A-915D3F9229D8",
             "name": "car-park",
@@ -163,7 +109,7 @@
                 "listItem2": "All vehicles must be reverse-parked in the designated parking areas",
                 "listItem3": ""  
             },
-            "displayPosition": 6,
+            "displayPosition": 4,
             "uxIsSelected": false,
             "uxIsDisabled": false
         },
@@ -194,94 +140,10 @@
                 "listItem2": "Free of charge",
                 "listItem3": ""  
             },
-            "displayPosition": 7,
+            "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false
-        },        
-        {
-            "amenityId": "3EE86C65-1E3E-4456-9E14-8C475AF16975",
-            "name": "housekeeping-service",
-            "title": "Night Shift Housekeeping Service",
-            "openingHours": "6am to 7:30am - 4:30pm to 7:30pm (Tue & Wed only)",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": false,
-            "mapMarker": {},
-            "imageClassName": "cleaning-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "Display a nightshift magnet (available from reception) on your front door when you commence your shift",
-                "listItem2": "Upon completion of your shift (or departure for RNR) remove magnet from your front door",
-                "listItem3": "Contact reception if you require housekeeping outside of the hours displayed below"  
-            },
-            "displayPosition": 8,
-            "uxIsSelected": false,
-            "uxIsDisabled": false
-        },
-        {
-            "amenityId": "EA4800AB-9888-4593-85B7-600224D03CD9",
-            "name": "retail-outlet",
-            "title": "Retail Outlet",
-            "openingHours": "4:30am to 9pm",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {
-                "showMarker": true,                          
-                "latitude": -23.336971,
-                "longitude": 119.932015
-            },
-            "imageClassName": "kiosk-image-1",
-            "iconClassName": "shopping_cart",
-            "detail": {
-                "intro": "",
-                "listTitle": "Stocks a Range of Everyday Items",
-                "listItem1": "Confectionery",
-                "listItem2": "Personal goods",
-                "listItem3": "Located in Jim's Tavern"  
-            },
-            "displayPosition": 9,
-            "uxIsSelected": false,
-            "uxIsDisabled": false
-        },
-        {
-            "amenityId": "0FF342E7-D2F8-4370-8093-0ACC380EE3F3",
-            "name": "in-room-communication",
-            "title": "In Room Communication & Wifi",
-            "openingHours": "",
-            "displayOpeningHours": false,
-            "phoneNumber": "1800 115 371",
-            "displayPhoneNumber": true,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": false,
-            "mapMarker": {},
-            "imageClassName": "wifi-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "Refer to instruction brochure in your room (also available from reception)",
-                "listItem2": "Internet access available in central facilities and throughout all rooms - go to campwifi@bhp.com",
-                "listItem3": "Call the number shown below for further assistance"  
-            },
-            "displayPosition": 10,
-            "uxIsSelected": false,
-            "uxIsDisabled": false
-        }
+        }      
+       
     ]
 }
