@@ -1,5 +1,28 @@
 {
     "event": [  
+        {
+            "eventId": "D6FB8667-903F-409B-A3A9-E356D457EF78",
+            "name": "fitness-challenge",
+            "title": "Walk/Run Club",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2020-03-04",
+            "displayDate": "Wednesday 4th of March",
+            "time": "6:30pm to 7:15pm",
+            "location": "HLC office",
+            "description": "Walk or Run",
+            "details1": "Walk or run for Cancer Council this March, and by raising funds, you can help with cancer research, prevention, advocacy and support services. Go solo or get your mates / family / colleagues together by joining us! Register with Jack or Sam by texting 0408 635 286",
+            "details2": ",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "woman-girl-silhouette-jogger-40751.jpg",
+            "imageClassName": "running-image-1",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false,
+            "hasMenu": false
+        }
     
     ]
 }
