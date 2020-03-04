@@ -18,7 +18,7 @@
             "eventUrl": "",
             "imageName": "woman-girl-silhouette-jogger-40751.jpg",
             "imageClassName": "running-image-1",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
@@ -41,7 +41,7 @@
             "eventUrl": "",
             "imageName": "exercise-hobby-jog-jogger-7432.jpg",
             "imageClassName": "bootcamp-image-1",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
@@ -110,7 +110,7 @@
             "eventUrl": "",
             "imageName": "exercise-hobby-jog-jogger-7432.jpg",
             "imageClassName": "bootcamp-image-1",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
