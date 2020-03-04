@@ -18,7 +18,7 @@
             "eventUrl": "",
             "imageName": "woman-girl-silhouette-jogger-40751.jpg",
             "imageClassName": "running-image-1",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
