@@ -22,6 +22,29 @@
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
+        },
+        {
+            "eventId": "10788CCB-B7C6-44E1-B3A1-31FDBA0C8700",
+            "name": "fitness-challenge",
+            "title": "Outdoor Bootcamp",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2020-03-05",
+            "displayDate": "Thursday 5th of March",
+            "time": "6:30pm to 7:15pm",
+            "location": "HLC Office",
+            "description": "Outdoor Bootcamp",
+            "details1": "Get your adrenaline pumped for this 45-minute high intensity interval training and every single workout is fresh and unique! Register with Jack or Sam by texting 0408 635 286",
+            "details2": "",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "exercise-hobby-jog-jogger-7432.jpg",
+            "imageClassName": "bootcamp-image-1",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false,
+            "hasMenu": false
         }
     
     ]
