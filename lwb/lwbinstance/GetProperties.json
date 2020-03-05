@@ -11,8 +11,7 @@
             "longitude": "",
             "buildingId": "511641",
             "buildingName": "Smith Street Aged Care",                     
-            "buildingAddress": "888 Smith Street Woodend QLD 4305",                           
-            "isFavourite": true,
+            "buildingAddress": "888 Smith Street Woodend QLD 4305",  
             "maintenanceRequest": []
         },
         {
@@ -26,8 +25,7 @@
             "longitude": "",
             "buildingId": "555555",
             "buildingName": "City Youth Centre",                     
-            "buildingAddress": "456 City Road East Ipswich QLD 4305",                           
-            "isFavourite": true,
+            "buildingAddress": "456 City Road East Ipswich QLD 4305",        
             "maintenanceRequest": []
         },
         {
@@ -41,8 +39,36 @@
             "longitude": "",
             "buildingId": "129899",
             "buildingName": "Rose Disabled Care",                     
-            "buildingAddress": "10 Rose St Fitzroy VIC 3005",                           
-            "isFavourite": true,
+            "buildingAddress": "10 Rose St Fitzroy VIC 3005",     
+            "maintenanceRequest": []
+        },
+        
+        {
+            "propertyId": "D893DEE5-8374-4278-B4C0-FCC34DB67AEA",
+            "propertyType": "Disability Care",
+            "address1": "10 Glenferrie Road",
+            "suburb": "Hawthorn",
+            "postCode": "3070",
+            "state": "VIC",
+            "latitude": "",
+            "longitude": "",
+            "buildingId": "469999",
+            "buildingName": "Hawthorn Disabled Care",                     
+            "buildingAddress": "10 Glenferrie Road Hawthorn VIC 3070", 
+            "maintenanceRequest": []
+        },
+        {
+            "propertyId": "6F5E81A5-CA33-45FC-A478-2BAE74FC6DC0",
+            "propertyType": "Foster Care",
+            "address1": "150 Lygon St",
+            "suburb": "Carlton",
+            "postCode": "3004",
+            "state": "VIC",
+            "latitude": "",
+            "longitude": "",
+            "buildingId": "129589",
+            "buildingName": "Carlton Senior Villag",                     
+            "buildingAddress": "150 Lygon St Carlton VIC 3004", 
             "maintenanceRequest": []
         }
     ]
