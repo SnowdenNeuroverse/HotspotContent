@@ -1,0 +1,18 @@
+{
+    "property": [            
+        {
+            "propertyId": "6320FD14-87F1-4FCD-8F92-C795963D886F",
+            "propertyType": "Aged Care",
+            "address1": "888 Smith Street",
+            "suburb: "Woodend",
+            "postCode: "4305",
+            "state: "QLD",
+            "latitude": "",
+            "longitude": "",
+            "buildingId": "511641",
+            "buildingName": "Smith Street Aged Care",                     
+            "buildingAddress": "888 Smith Street Woodend QLD 4305",                           
+            "isFavourite": true
+        }
+    ]
+}
