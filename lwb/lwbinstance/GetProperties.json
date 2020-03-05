@@ -29,6 +29,21 @@
             "buildingAddress": "456 City Road East Ipswich QLD 4305",                           
             "isFavourite": true,
             "maintenanceRequest": []
+        },
+        {
+            "propertyId": "C946AE26-7C14-44E4-A175-1F33F4DA3917",
+            "propertyType": "Disability Care",
+            "address1": "10 Rose St Fitzroy",
+            "suburb": "Fitzroy",
+            "postCode": "3005",
+            "state": "VIC",
+            "latitude": "",
+            "longitude": "",
+            "buildingId": "129899",
+            "buildingName": "Rose Disabled Care",                     
+            "buildingAddress": "10 Rose St Fitzroy VIC 3005",                           
+            "isFavourite": true,
+            "maintenanceRequest": []
         }
     ]
 }
