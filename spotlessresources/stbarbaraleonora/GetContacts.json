@@ -27,6 +27,35 @@
                 "listItem3": ""
             },
             "displayPosition": 1
+        },
+        
+        {
+            "contactId": "73926213-2E16-4C5E-85F0-853D59222A56",
+            "name": "reptile",
+            "title": "Reptile Handlers",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "0437 635 897",
+            "secondaryPhoneNumber": "(08) 9037 2020",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Call for snake or reptile sightings",
+            "displaySubtitle": true,
+            "displayMapButton": false,            
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "reception-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 2
         }
         
     ]
