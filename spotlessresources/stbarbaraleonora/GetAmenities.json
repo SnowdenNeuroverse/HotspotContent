@@ -149,6 +149,66 @@
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
+        },
+        
+        {
+            "amenityId": "45298EDE-75C5-4ED3-9089-19F965A7C3F6",
+            "name": "car-park",
+            "title": "Car Park",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "car-park-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Things to Know",
+                "listItem1": "Authorised vehicles only",
+                "listItem2": "All vehicles must be reverse-parked in the designated parking areas",
+                "listItem3": ""  
+            },
+            "displayPosition": 6,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        
+        {
+            "amenityId": "EAAB2015-D040-4F68-97B1-54729D239F32",
+            "name": "in-room-communication",
+            "title": "In Room Communication & Wifi",
+            "openingHours": "",
+            "displayOpeningHours": true,
+            "phoneNumber": "0428 761 953",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "mapMarker": {},
+            "imageClassName": "wifi-image-1",
+            "iconClassName": "",
+            "detail": {
+               "intro": "Connecting to the Wifi",
+                "listTitle": "Things to Know",
+                "listItem1": "To access the internet, connect to 'EntertainmentAP' with the password 'internet' and you will be re-directed to a sign-in page. For first time user, you will need to create an account.",
+                "listItem2": "Instruction brochure is available in your room (also available from reception)",
+                "listItem3": "Call the number shown below for further assistance."  
+            },
+            "displayPosition": 7,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
         }
         
     ]
