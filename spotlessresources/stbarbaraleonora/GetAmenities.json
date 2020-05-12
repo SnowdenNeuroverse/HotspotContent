@@ -105,7 +105,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "pool-image-1",
+            "imageClassName": "locker-image-1",
             "iconClassName": "",
             "detail": {
                 "intro": "",
