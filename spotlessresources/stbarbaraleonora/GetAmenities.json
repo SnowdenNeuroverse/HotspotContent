@@ -1,10 +1,10 @@
 {
     "amenity": [
         {
-            "amenityId": "92D75A10-08C0-4A8E-A87D-D173149C8AC3",
+            "amenityId": "A9FA9AD2-1C18-439D-A253-814674864AC4",
             "name": "restaurant",
             "title": "Dining Room",
-            "openingHours": "4:30am to 8:30am - 4:30pm - 8:30pm",
+            "openingHours": "4am to 8am - 4pm to 8pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
             "displayPhoneNumber": false,
@@ -17,11 +17,11 @@
             "imageClassName": "restaurant-image-2",
             "iconClassName": "",
             "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "No singlets, dirty work clothes or gym attire",
-                "listItem2": "No alcohol",
-                "listItem3": "No hot crib"
+                "intro": "The restaurant serves breakfast, crib and dinner",
+                "listTitle": "Minimum Dress Standards",
+                "listItem1": "Clean uniform allowed",
+                "listItem2": "Soiled post-shift uniforms and work boots are not permitted",
+                "listItem3": "No singlets, thongs or bags"
             },
             "displayPosition": 1,
             "uxIsSelected": false,
@@ -29,37 +29,9 @@
             "displayLocation": false,
             "location": ""
         },
+       
         {
-            "amenityId": "5A3D0916-746B-49BB-AF25-D1F142C16AE8",
-            "name": "recreation",
-            "title": "Recreation Room",
-            "openingHours": "24/7",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "recreation-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "No alcohol",
-                "listItem2": "No dirty clothes or footwear",
-                "listItem3": "Jamming Sessions on every Wednesday night from 6:30pm to 7:30pm"
-            },
-            "displayPosition": 2,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
-        },
-        {
-            "amenityId": "C08A617D-EFEC-4F26-9C6E-223A08926368",
+            "amenityId": "18D854F8-CED3-40FE-9F83-1667146F83D5",
             "name": "gymnasium",
             "title": "Gymnasium",
             "openingHours": "24/7",
@@ -81,43 +53,15 @@
                 "listItem2": "No open shoes",
                 "listItem3": "No food or drinks (except water)"
             },
-            "displayPosition": 3,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
         },
+        
         {
-            "amenityId": "18237B86-7FD4-456A-92E0-8E78B9F9935E",
-            "name": "tavern",
-            "title": "Tavern",
-            "openingHours": "5:30pm to 9:30pm",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "tavern-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "No dirty clothes or footwear",
-                "listItem2": "No BYO",
-                "listItem3": "No takeaway after 8:30pm"
-            },
-            "displayPosition": 4,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
-        },
-        {
-            "amenityId": "F66EB1A5-36A8-413C-AE03-B3D988B7CC1F",
+            "amenityId": "90449FF9-7207-49B8-BE7E-D2B6615F1194",
             "name": "pool",
             "title": "Swimming Pool",
             "openingHours": "24/7",
@@ -139,11 +83,73 @@
                 "listItem2": "No smoking",
                 "listItem3": "No alcohol"
             },
+            "displayPosition": 3,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        
+        
+        {
+            "amenityId": "87184536-D5CD-4E6C-AD9C-0F177BCE6BAC",
+            "name": "locker",
+            "title": "Locker Room",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "pool-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Combination lock and code available from the village office",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 4,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": false,
+            "location": ""
+        },
+        
+        {
+            "amenityId": "0A997A92-4298-46A2-8B6B-6A9D3EE3F3BB",
+            "name": "recreation",
+            "title": "Recreation Room",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "recreation-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "Use one of your room keys to open one of the access doors",
+                "listItem1": "TV & Nintendo Switch",
+                "listItem2": "Pool Table & Darts",
+                "listItem3": ""  
+            },
             "displayPosition": 5,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
             "location": ""
         }
+        
     ]
 }
