@@ -56,6 +56,35 @@
                 "listItem3": ""
             },
             "displayPosition": 2
+        },
+        
+        {
+            "contactId": "859D8BED-6D23-46E7-BBF4-199B6032520F",
+            "name": "bus-services",
+            "title": "Bus Services Hotline",
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "0417 339 478",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "Bus service by request only for Monday incoming flight, call prior to flight departure to book a seat",
+            "displaySubtitle": true,
+            "displayMapButton": false,           
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "bus-services-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 3
         }
         
     ]
