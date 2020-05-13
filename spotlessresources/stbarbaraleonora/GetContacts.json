@@ -85,6 +85,93 @@
                 "listItem3": ""
             },
             "displayPosition": 3
+        },
+        
+        {
+            "contactId": "7BFDE7FA-340F-4B2E-8AE7-A4BE7982FC28",
+            "name": "maintenance",
+            "title": "Maintenance",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "https://stbarbara.kayako.com/",
+            "displayEmailAddress": true,
+            "subtitle": "All village issues, maintenance requests, feedback should be provided through Kayako. Submit a request by 'starting a conversation'.",
+            "displaySubtitle": true,
+            "displayMapButton": false,        
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "maintenance-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 4
+        },
+        
+        {
+            "contactId": "2CAA12B5-927D-4CED-BC2E-9D535EEE6CD6",
+            "name": "it-support",
+            "title": "IT Support",  
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(08) 6336 7379",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": true,
+            "subtitle": "If you are experiencing any problems with technology onsite, please contact us.",
+            "displaySubtitle": true,
+            "displayMapButton": false,      
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "it-helpdesk-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 5
+        },
+        
+         {
+            "contactId": "EDE6DDBA-27F0-4F15-834D-F9AA871FB072",
+            "name": "flying-doctor",
+            "title": "Royal Flying Doctor Service",
+            "openingHours": "24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "1800 625 800",
+            "secondaryPhoneNumber": "",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": true,
+            "subtitle": "Medical/Emergency calls only",
+            "displaySubtitle": true,
+            "displayMapButton": false,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "mapMarker": {},    
+            "imageClassName": "medical-image-1", 
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 6
         }
         
     ]
