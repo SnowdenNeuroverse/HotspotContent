@@ -3,7 +3,7 @@
         {
             "amenityId": "A9FA9AD2-1C18-439D-A253-814674864AC4",
             "name": "restaurant",
-            "title": "Dining Room",
+            "title": "Restaurant",
             "openingHours": "4am to 8am - 4pm to 8pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
