@@ -3,7 +3,7 @@
         {
             "amenityId": "A9FA9AD2-1C18-439D-A253-814674864AC4",
             "name": "restaurant",
-            "title": "Restaurant",
+            "title": "Village Mess",
             "openingHours": "4am to 8am - 4pm to 8pm",
             "displayOpeningHours": true,
             "phoneNumber": "",
@@ -17,7 +17,7 @@
             "imageClassName": "restaurant-image-2",
             "iconClassName": "",
             "detail": {
-                "intro": "The restaurant serves breakfast, crib and dinner",
+                "intro": "",
                 "listTitle": "Minimum Dress Standards",
                 "listItem1": "Clean uniform allowed",
                 "listItem2": "Soiled post-shift uniforms and work boots are not permitted",
