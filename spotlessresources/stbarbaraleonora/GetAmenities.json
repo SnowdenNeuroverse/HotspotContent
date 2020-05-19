@@ -109,10 +109,10 @@
             "iconClassName": "",
             "detail": {
                 "intro": "",
-                "listTitle": "Combination lock and code available from the village office",
-                "listItem1": "",
-                "listItem2": "",
-                "listItem3": ""
+                "listTitle": "Entry door combination code is the same as village pedestrian access gates",
+                "listItem1": "Please complete a locker allocation form once you've selected a locker and handed the form in to the village office",
+                "listItem2": "Padlocks are not provided, please supply your own",
+                "listItem3": "Padlocks are available for purchase in the village shop"
             },
             "displayPosition": 4,
             "uxIsSelected": false,
