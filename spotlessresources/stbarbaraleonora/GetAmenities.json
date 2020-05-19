@@ -198,8 +198,8 @@
             "imageClassName": "wifi-image-1",
             "iconClassName": "",
             "detail": {
-               "intro": "Instruction brochure is available from reception",
-                "listTitle": "",
+               "intro": "",
+                "listTitle": "Instruction brochure is available from reception",
                 "listItem1": "",
                 "listItem2": "",
                 "listItem3": ""  
