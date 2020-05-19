@@ -14,7 +14,7 @@
             "displaySubtitle": false,
             "displayMapButton": true,
             "mapMarker": {},
-            "imageClassName": "restaurant-image-2",
+            "imageClassName": "",
             "iconClassName": "",
             "detail": {
                 "intro": "",
