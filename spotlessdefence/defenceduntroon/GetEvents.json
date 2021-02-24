@@ -45,6 +45,29 @@
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
-        }
+        },
+        {
+            "eventId": "D2B9E5A0-E625-44A6-9894-689FDB74851D",
+            "name": "fitness-challenge",
+            "title": "Fitness Challenge",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2021-03-01",
+            "displayDate": "Monday 1st of March",
+            "time": "",
+            "location": "Gymnasium",
+            "description": "12-week Challenge",
+            "details1": "We have designed this challenge to specifically improve and build functional muscle in ways that can assist us not only within our daily lives but also during our jobs",
+            "details2": "",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "active-athlete-barbell-703014.jpg",
+            "imageClassName": "fitness-challenge-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": false,
+            "hasMenu": false
+        },
     ]
 }
