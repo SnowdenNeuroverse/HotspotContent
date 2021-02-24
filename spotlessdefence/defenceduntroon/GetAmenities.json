@@ -13,7 +13,18 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
+            "mapMarker": {
+                "name": "Gymnasium",
+                "latitude": -35.300194,
+                "longitude": 149.1607202,
+                "iconUrl": {
+                    "url": "./assets/directory/baseline-fitness_center-new-24px.svg",
+                    "scaledSize": {
+                        "width": 42,
+                        "height": 42
+                    }
+                }
+            },
             "imageClassName": "gymnasium-image-1",
             "iconClassName": "",
             "detail": {
