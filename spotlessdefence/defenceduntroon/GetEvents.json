@@ -54,7 +54,7 @@
             "categoryType": "Social Event",
             "date": "2021-03-01",
             "displayDate": "Monday 1st of March",
-            "time": "",
+            "time": "TBA",
             "location": "Gymnasium",
             "description": "12-week Challenge",
             "details1": "We have designed this challenge to specifically improve and build functional muscle in ways that can assist us not only within our daily lives but also during our jobs",
@@ -68,6 +68,6 @@
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
-        },
+        }
     ]
 }
