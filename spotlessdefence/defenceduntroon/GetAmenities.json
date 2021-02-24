@@ -231,6 +231,36 @@
             "uxIsDisabled": false,
             "displayLocation": true,
             "location": "Building C094 (Vowels Road, Campbell)"
-        }        
+        },
+        
+        {
+            "amenityId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
+            "name": "reception",
+            "title": "Accommodation Office",
+            "openingHours": "8:30am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "139 342",
+            "displayPhoneNumber": true,
+            "emailAddress": "lia@dha.gov.au",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "mapMarker": {},
+            "imageClassName": "reception-image-1",
+            "iconClassName": "",
+            "detail": {
+                "intro": "",
+                "listTitle": "",
+                "listItem1": "",
+                "listItem2": "",
+                "listItem3": ""
+            },
+            "displayPosition": 7,
+            "uxIsSelected": false,
+            "uxIsDisabled": false,
+            "displayLocation": true,
+            "location": ""
+        } 
     ]
 }
