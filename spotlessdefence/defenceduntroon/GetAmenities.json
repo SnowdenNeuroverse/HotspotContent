@@ -92,7 +92,7 @@
                 "listItem2": "",
                 "listItem3": ""
             },
-            "displayPosition": 3,
+            "displayPosition": 0,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
@@ -267,7 +267,7 @@
                 "listItem2": "",
                 "listItem3": ""
             },
-            "displayPosition": 0,
+            "displayPosition": 9,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
