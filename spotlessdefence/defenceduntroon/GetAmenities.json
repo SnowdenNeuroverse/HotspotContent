@@ -15,8 +15,10 @@
             "displayMapButton": true,
             "mapMarker": {
                 "name": "Gymnasium",
-                "latitude": -35.300194,
-                "longitude": 149.1607202,
+                "position": {
+                    "lat": -35.300194,
+                    "lng": 149.1607202
+                 },                
                 "iconUrl": {
                     "url": "./assets/directory/baseline-fitness_center-new-24px.svg",
                     "scaledSize": {
