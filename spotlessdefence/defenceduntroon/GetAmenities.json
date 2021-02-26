@@ -34,7 +34,7 @@
                 "listItem2": "",
                 "listItem3": ""
             },
-            "displayPosition": 11,
+            "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
@@ -63,7 +63,7 @@
                 "listItem2": "",
                 "listItem3": ""
             },
-            "displayPosition": 2,
+            "displayPosition": 1,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
@@ -92,7 +92,7 @@
                 "listItem2": "",
                 "listItem3": ""
             },
-            "displayPosition": 0,
+            "displayPosition": 2,
             "uxIsSelected": false,
             "uxIsDisabled": false,
             "displayLocation": false,
