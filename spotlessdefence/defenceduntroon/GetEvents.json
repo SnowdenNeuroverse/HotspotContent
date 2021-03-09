@@ -45,6 +45,29 @@
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
+        },
+         {
+            "eventId": "D1E9427D-7E9E-4C71-9FB7-EC074F4518DE",
+            "name": "fitness-challenge",
+            "title": "Stretch/Yoga",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2021-03-31",
+            "displayDate": "Wednesday 31st of March",
+            "time": "6:30pm to 7:15pm",
+            "location": "HLC Office",
+            "description": "Stretch or Yoga",
+            "details1": "Do you know that yoga and stretching helps to improve flexibility, muscle strength, toning and overall cardio and circulatory health? No matter how you arrive, you'll leave feeling calm, strong, and open for something new. Register with Jack or Sam by texting 0408 635 286",
+            "details2": "",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "backlit-beach-dawn-dusk-588561.jpg",
+            "imageClassName": "yoga-image-1",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": false
         }
        
     ]
