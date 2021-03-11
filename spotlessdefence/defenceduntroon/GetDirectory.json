@@ -1,68 +1,15 @@
 {
-    "item": [  
-        {
-            "itemId": "3232AA74-C1FA-49AA-BC28-7683AA5DA6F8",
-            "name": "gymnasium",
-            "title": "Gymnasium",
-            "openingHours": "7am to 7pm (Mon - Fri)",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "gymnasium-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "Closed on weekends and public holidays",
-                "listItem2": "",
-                "listItem3": ""
-            },
-            "displayPosition": 1,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
-        },
-        {
-            "itemId": "E8B78515-1523-4E93-9E5B-BB4C3B2C8A90",
-            "name": "pool",
-            "title": "Swimming Pool",
-            "openingHours": "12pm to 8pm",
-            "displayOpeningHours": true,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "pool-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "No glass zone",
-                "listItem2": "",
-                "listItem3": ""
-            },
-            "displayPosition": 2,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
-        },
-        {
-            "itemId": "A9C65232-89BB-4DDE-B059-B2061A8E5896",
-            "name": "medical-centre",
-            "title": "Duntroon Clinic",
-            "openingHours": "9am to 4pm - 8am to 12pm (Friday)",
+    "directoryItem": [  
+                {
+            "itemId": "0D9D3BB0-6FA0-4946-B14E-49D006376CF5",
+            "isVisible": true,
+            "name": "health-centre",
+            "title": "Health Centre",
+            "address": "5/6 Lavarack Harrison Rd, Campbell",
+            "displayAddress": true,
+            "latitude": -35.295233,
+            "longitude": 149.167642,
+            "openingHours": "Opening Hours: 9am to 4pm - 8am to 12pm (Friday)",
             "displayOpeningHours": true,
             "phoneNumber": "(02) 6248 0511",
             "displayPhoneNumber": true,
@@ -71,84 +18,29 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "medical-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Things to Know",
-                "listItem1": "In an emergency please call 000",
-                "listItem2": "",
-                "listItem3": ""
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hospital-24px.svg"
+                }
             },
-            "displayPosition": 3,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
+            "displayInfoWindow": true,
+            "imageClassName": "health-centre-image",
+            "iconClassName": "",
+            "detail": [
+                "In an emergency please call 000"
+            ],
+            "displayPosition": 7
         },
         {
-            "itemId": "EBA9CF57-B828-469F-B687-D9FDAF7BE145",
-            "name": "rmc-chapel",
-            "title": "RMC Chapel",
-            "openingHours": "Wednesdays and Sundays",
-            "displayOpeningHours": true,
-            "phoneNumber": "(02) 6248 0511",
-            "displayPhoneNumber": true,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "duntroon-chapel-image-1",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Mass Times",
-                "listItem1": "Sunday: 9:30am & 5pm",
-                "listItem2": "Wednesday: 12pm",
-                "listItem3": ""
-            },
-            "displayPosition": 4,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": false,
-            "location": ""
-        },
-        {
-            "itemId": "5BADB422-EDD5-4CA8-9912-3ECCDB541A81",
-            "name": "mess-cadets",
-            "title": "Cadet's Mess",
-            "openingHours": "",
-            "displayOpeningHours": false,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "mess-image-3",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Meal Times",
-                "listItem1": "Breakfast: 06:00-08:00 (Mon-Fri), 06:00-08:00 (Weekends & Public Holidays)",
-                "listItem2": "Lunch: 12:30-13:15 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
-                "listItem3": "Dinner: 18:00-18:45 (Mon-Fri), 17:30-18:15 (Weekends & Public Holidays)"
-            },
-            "displayPosition": 8,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Building A030"
-        },
-        {
-            "itemId": "B1CE78F3-CE18-4BC5-B0B4-B935E4319597",
+            "itemId": "F74D7D0A-B3B0-4999-8410-D68DAEEB758E",
+            "isVisible": true,
             "name": "mess-officers",
-            "title": "Officer's Mess",
+            "title": "Officers Mess",
+            "address": "Building C010 (Plant Road, Campbell)",
+            "displayAddress": true,
+            "latitude": -35.2994,
+            "longitude": 149.163575,
             "openingHours": "",
             "displayOpeningHours": false,
             "phoneNumber": "",
@@ -158,55 +50,32 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "mess-image-2",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Meal Times",
-                "listItem1": "Breakfast: 06:45-07:45 (Mon-Fri), 08:00-10:00 (Weekends & Public Holidays)",
-                "listItem2": "Lunch: 12:30-13:15 (Mon-Fri), 12:00-13:30 (Weekends & Public Holidays)",
-                "listItem3": "Dinner: 18:00-18:45 (Mon-Fri), 17:30-18:30 (Weekends & Public Holidays)"
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/baseline-restaurant_menu-new-24px.svg"
+                }
             },
-            "displayPosition": 5,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Building C010 (Plant Road, Campbell)"
-        },
-        {
-            "itemId": "6F342DE5-6002-4B5E-8CD6-1E78B5B7ED46",
-            "name": "mess-ors",
-            "title": "OR's Mess",
-            "openingHours": "",
-            "displayOpeningHours": false,
-            "phoneNumber": "",
-            "displayPhoneNumber": false,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "mess-image-1",
+            "displayInfoWindow": true,
+            "imageClassName": "officers-mess-image",
             "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Meal Times",
-                "listItem1": "Breakfast: 06:45-07:45 (Mon-Fri), 08:00-10:00 (Weekends & Public Holidays)",
-                "listItem2": "Lunch: 12:30-13:30 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
-                "listItem3": "Dinner: 18:00-18:45 (Mon-Fri), 18:00-18:45 (Weekends & Public Holidays)"
-            },
-            "displayPosition": 7,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Building D082 (Plant Road, Campbell)"
+            "detail": [
+                "Meal Times:",
+                "Breakfast: 06:45-07:45 (Mon-Fri), 08:00-10:00 (Weekends & Public Holidays)",
+                "Lunch: 12:30-13:15 (Mon-Fri), 12:00-13:30 (Weekends & Public Holidays)",
+                "Dinner: 18:00-18:45 (Mon-Fri), 17:30-18:30 (Weekends & Public Holidays)"
+            ],
+            "displayPosition": 3
         },
         {
             "itemId": "45867697-CF89-46A9-9C88-886F597E8F04",
-            "name": "mess-sergeants",
-            "title": "Sergeant's Mess",
+            "isVisible": true,
+            "name": "mess-sargeants",
+            "title": "Sergeants Mess",
+            "address": "Building C094 (Vowels Road, Campbell)",
+            "displayAddress": true,
+            "latitude": -35.299997,
+            "longitude": 149.166957,
             "openingHours": "",
             "displayOpeningHours": false,
             "phoneNumber": "",
@@ -216,21 +85,207 @@
             "subtitle": "",
             "displaySubtitle": false,
             "displayMapButton": true,
-            "mapMarker": {},
-            "imageClassName": "mess-image-4",
-            "iconClassName": "",
-            "detail": {
-                "intro": "",
-                "listTitle": "Meal Times",
-                "listItem1": "Breakfast: 06:45-07:45 (Mon-Fri), 08:00-10:00 (Weekends & Public Holidays)",
-                "listItem2": "Lunch: 12:30-13:30 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
-                "listItem3": "Dinner: 18:00-18:30 (Mon-Fri), 17:30-18:30 (Weekends & Public Holidays)"
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/baseline-restaurant_menu-new-24px.svg"
+                }
             },
-            "displayPosition": 6,
-            "uxIsSelected": false,
-            "uxIsDisabled": false,
-            "displayLocation": true,
-            "location": "Building C094 (Vowels Road, Campbell)"
-        }        
+            "displayInfoWindow": true,
+            "imageClassName": "sergeants-mess-image",
+            "iconClassName": "",
+            "detail": [
+                "Meal Times:",
+                "Breakfast: 06:45-07:45 (Mon-Fri), 08:00-10:00 (Weekends & Public Holidays)",
+                "Lunch: 12:30-13:30 (Mon-Fri), 12:30-13:30 (Weekends & Public Holidays)",
+                "Dinner: 18:00-18:30 (Mon-Fri), 17:30-18:30 (Weekends & Public Holidays)"
+            ],
+            "displayPosition": 4
+        },
+        {
+            "itemId": "EBA9CF57-B828-469F-B687-D9FDAF7BE145",
+            "isVisible": true,
+            "name": "rmc-chapel",
+            "title": "RMC Chapel",
+            "address": "Cnr Robert Campbell Rd & Miles Rd, Campbell",
+            "displayAddress": true,
+            "latitude": -35.296424,
+            "longitude": 149.168029,
+            "openingHours": "Opening Hours: Wednesdays and Sundays",
+            "displayOpeningHours": true,
+            "phoneNumber": "(02) 6248 0511",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/home_work-24px.svg"
+                }
+            },
+            "displayInfoWindow": true,
+            "imageClassName": "duntroon-chapel-image-1",
+            "iconClassName": "",
+            "detail": [
+                "Mass Times:",
+                "Sunday: 9:30am & 5pm",
+                "Wednesday: 12pm"
+            ],
+            "displayPosition": 5
+        },
+        {
+            "itemId": "3232AA74-C1FA-49AA-BC28-7683AA5DA6F8",
+            "isVisible": true,
+            "name": "gymnasium",
+            "title": "Fitness Centre",
+            "address": "Campbell",
+            "displayAddress": false,
+            "latitude": -35.300188,
+            "longitude": 149.160842,
+            "openingHours": "Opening Hours: 7am to 7pm (Mon - Fri)",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/baseline-fitness_center-new-24px.svg"
+                }
+            },
+            "displayInfoWindow": true,
+            "imageClassName": "fitness-centre-image",
+            "iconClassName": "",
+            "detail": [
+                "Temporarily Closed"
+            ],
+            "displayPosition": 6
+        },
+        {
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Accommodation Office",
+            "address": "1 Fraser Rd, Campbell",
+            "displayAddress": true,
+            "latitude": -35.30240822,
+            "longitude": 149.1668528,
+            "openingHours": "Opening Hours: 8:30am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "139 342",
+            "displayPhoneNumber": true,
+            "emailAddress": "lia@dha.gov.au",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hotel-24px.svg"
+                }
+            },
+            "displayInfoWindow": true,
+            "imageClassName": "accomodation-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 0
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
+            "isVisible": true,
+            "name": "security-incident",
+            "title": "Security Incident",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(02) 6265 7275",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "security-image-4",
+            "iconClassName": "",
+            "detail": [
+                "Report any suspicious behaviour or incident on-base",
+                "Examples: Armed intruder, someone walking around with RF recording equipment etc."
+            ],
+            "displayPosition": 8
+        },
+        {
+            "itemId": "B808A42B-061D-4B38-A7CF-A3528B152299",
+            "isVisible": true,
+            "name": "base-services-support-centre",
+            "title": "Base Services Support Centre",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 658 975",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "maintenance-image-1",
+            "iconClassName": "",
+            "detail": [
+                "Request maintennace for building, infrastructure, gardens or landscape",
+                "Raise a transport request",
+                "Request cleaning services"
+            ],
+            "displayPosition": 9
+        },
+        {
+            "itemId": "D61D2D28-B370-4A9A-AB35-1D03EA78197A",
+            "isVisible": false,
+            "name": "blamey-square",
+            "title": "Blamey Square",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -35.29781,
+            "longitude": 149.150933,
+            "openingHours": "",
+            "displayOpeningHours": false,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/marker-24px.svg"
+                }
+            },
+            "displayInfoWindow": false,
+            "imageClassName": "blamey-square-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 9
+        }
     ]
 }
