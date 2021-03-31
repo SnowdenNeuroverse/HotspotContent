@@ -18,7 +18,7 @@
             "eventUrl": "",
             "imageName": "architecture-basketball-basketball-basket-1332237.jpg",
             "imageClassName": "social-sport-basketball-image",
-            "isActivated": false,
+            "isActivated": true,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
