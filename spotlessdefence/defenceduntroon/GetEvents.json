@@ -41,7 +41,7 @@
             "eventUrl": "",
             "imageName": "accuracy-accurate-arrow-262438.jpg",
             "imageClassName": "social-sport-darts-image",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
