@@ -33,6 +33,36 @@
             "displayPosition": 2
         },
         {
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Reception",
+            "address": "1 Sample Street, Melbourne",
+            "displayAddress": true,
+            "latitude": -35.30240822,
+            "longitude": 149.1668528,
+            "openingHours": "Opening Hours: 8:30am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "888 888",
+            "displayPhoneNumber": true,
+            "emailAddress": "reception@sample.com.au",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hotel-24px.svg"
+                }
+            },
+            "displayInfoWindow": true,
+            "imageClassName": "accomodation-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 2
+        },
+        {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
             "isVisible": true,
             "name": "security-incident",
