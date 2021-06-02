@@ -2,7 +2,7 @@
     "directoryItem": [  
         {
             "itemId": "3232AA74-C1FA-49AA-BC28-7683AA5DA6F8",
-            "isVisible": true,
+            "isVisible": false,
             "name": "gymnasium",
             "title": "Fitness Centre",
             "address": "Campbell",
@@ -30,6 +30,34 @@
             "detail": [
                 "Temporarily Closed"
             ],
+            "displayPosition": 2
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
+            "isVisible": true,
+            "name": "security-incident",
+            "title": "Security Incident",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(03) 9999 9999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "security-image-4",
+            "iconClassName": "",
+            "detail": [
+                "Report any suspicious behaviour or incident on-site"
+             ],
             "displayPosition": 1
         }
     ]
