@@ -39,8 +39,8 @@
             "title": "Coles Store Support Centre (HQ)",
             "address": "800 Toorak Rd, Hawthorn East, 3123",
             "displayAddress": true,
-            "latitude": -37.845931,
-            "longitude": 145.4818264,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
             "openingHours": "Opening Hours: 9am to 5pm",
             "displayOpeningHours": true,
             "phoneNumber": "(03)98293111",
@@ -53,7 +53,7 @@
             "displayMapMarker": true,
             "mapMarker": {
                 "options": {
-                    "icon": "./assets/markers/local_hotel-24px.svg"
+                    "icon": "./assets/markers/local_phone-24px.svg"
                 }
             },
             "displayInfoWindow": true,
