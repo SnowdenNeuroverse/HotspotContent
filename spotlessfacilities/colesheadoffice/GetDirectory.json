@@ -53,7 +53,7 @@
             "displayMapMarker": true,
             "mapMarker": {
                 "options": {
-                    "icon": "./assets/markers/local_hotel-24px.svg"
+                    "icon": "./assets/markers/local_hotel-red-24px.svg"
                 }
             },
             "displayInfoWindow": true,
