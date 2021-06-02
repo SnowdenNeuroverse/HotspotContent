@@ -68,6 +68,29 @@
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
+        },
+        {
+            "eventId": "D1E9427D-7E9E-4C71-9FB7-EC074F451999",
+            "name": "fitness-challenge",
+            "title": "COVID-19 Safety",
+            "subtitle": "",
+            "categoryType": "Social Event",
+            "date": "2021-06-16",
+            "displayDate": "",
+            "time": "",
+            "location": "",
+            "description": "Protect Yourself & Others",
+            "details1": "Be alert for symptoms",
+            "details2": "Take your temperature",
+            "registrationRequired": false,
+            "registrationDetails": "",
+            "eventUrl": "",
+            "imageName": "covid-19-image.jpg",
+            "imageClassName": "covid-19-image",
+            "isActivated": true,
+            "isHighlighted": false,
+            "isFeatured": true,
+            "hasMenu": false
         }
        
     ]
