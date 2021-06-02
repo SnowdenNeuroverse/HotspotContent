@@ -21,7 +21,7 @@
             "displayMapMarker": true,
             "mapMarker": {
                 "options": {
-                    "icon": "./assets/markers/baseline-fitness_center-new-24px.svg"
+                    "icon": "./assets/markers/baseline-fitness_center-new-red-24px.svg"
                 }
             },
             "displayInfoWindow": true,
