@@ -60,13 +60,13 @@
             "imageClassName": "accomodation-image",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 2
+            "displayPosition": 1
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
             "isVisible": true,
             "name": "security-incident",
-            "title": "Security Incident",
+            "title": "Security",
             "address": "",
             "displayAddress": false,
             "latitude": 0,
@@ -88,7 +88,7 @@
             "detail": [
                 "Report any suspicious behaviour or incident on-site"
              ],
-            "displayPosition": 1
+            "displayPosition": 2
         }
     ]
 }
