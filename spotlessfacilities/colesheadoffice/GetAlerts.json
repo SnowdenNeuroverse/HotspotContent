@@ -1,33 +1,13 @@
 {
     "alert": [
-        {
-            "alertId": "FF4832E7-6A16-465D-BF7B-65C99CE28722",
-            "alertTitle": "Checked In",
-            "alertType": {
-                "alertTypeId": "3",
-                "name": "Notification"
-            },
-            "sentDateTime": "2021-03-02T12:35:12",
-            "messageRead": true
-        },
-        {
-            "alertId": "D00E3D64-6C13-4AEB-A767-8A714417B1FD",
-            "alertTitle": "Room Cleaned",
-            "alertType": {
-                "alertTypeId": "3",
-                "name": "Notification"
-            },
-            "sentDateTime": "2021-03-05T08:44:36",
-            "messageRead": true
-        },
-        {
+       {
             "alertId": "AD2AD052-C7C5-468B-A7CD-F384D878E80B",
-            "alertTitle": "Contact Reception",
+            "alertTitle": "Door Repair Maintenance Request Complete",
             "alertType": {
                 "alertTypeId": "3",
                 "name": "Notification"
             },
-            "sentDateTime": "2021-03-09T18:12:18",
+            "sentDateTime": "2021-06-01T18:12:18",
             "messageRead": false
         }
      
