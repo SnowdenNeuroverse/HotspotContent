@@ -92,9 +92,9 @@
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
-            "isVisible": false,
-            "name": "security-incident",
-            "title": "Security",
+            "isVisible": true,
+            "name": "medical-centre",
+            "title": "First Aid",
             "address": "",
             "displayAddress": false,
             "latitude": 0,
@@ -111,12 +111,11 @@
             "displayMapMarker": false,
             "mapMarker": {},
             "displayInfoWindow": false,
-            "imageClassName": "security-image-4",
+            "imageClassName": "medical-image-1",
             "iconClassName": "",
             "detail": [
-                "Report any suspicious behaviour or incident on-site"
              ],
-            "displayPosition": 2
+            "displayPosition": 3
         }
     ]
 }
