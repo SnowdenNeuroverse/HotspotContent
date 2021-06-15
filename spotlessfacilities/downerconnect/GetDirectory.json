@@ -31,6 +31,36 @@
             "displayPosition": 1
         },
         {
+            "itemId": "4C658B15-E2A5-49D4-B048-EB729A72E8D2",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Payroll Support (Australia)",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
+            "openingHours": "Opening Hours: 9am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "1300 333 000",
+            "displayPhoneNumber": false,
+            "emailAddress": "payroll_helpdesk@downergroup.com",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_phone-24px.svg"
+                }
+            },
+            "displayInfoWindow": false,
+            "imageClassName": "payroll-support-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 2
+        },
+        {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
             "isVisible": false,
             "name": "security-incident",
@@ -56,7 +86,7 @@
             "detail": [
                 "Report any suspicious behaviour or incident on-site"
              ],
-            "displayPosition": 2
+            "displayPosition": 3
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
@@ -83,7 +113,7 @@
             "iconClassName": "",
             "detail": [
              ],
-            "displayPosition": 3
+            "displayPosition": 4
         }
     ]
 }
