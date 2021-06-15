@@ -24,8 +24,8 @@
                     "icon": "./assets/markers/local_phone-24px.svg"
                 }
             },
-            "displayInfoWindow": true,
-            "imageClassName": "accomodation-image",
+            "displayInfoWindow": false,
+            "imageClassName": "it-support-image",
             "iconClassName": "",
             "detail": [],
             "displayPosition": 1
