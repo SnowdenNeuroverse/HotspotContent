@@ -5,7 +5,7 @@
             "alertTitle": "Take 5 Submitted",
             "alertType": {
                 "alertTypeId": "3",
-                "name": "Take 5 Submitted"
+                "name": "Notification"
             },
             "sentDateTime": "2021-09-01T18:12:18",
             "messageRead": false
