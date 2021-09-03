@@ -2,51 +2,77 @@
 {
     "directoryItem": [  
         {
-            "itemId": "0D9D3BB0-6FA0-4946-B14E-49D006376CF5",
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
             "isVisible": true,
-            "name": "health-centre",
-            "title": "Health Centre",
-            "address": "5/6 Lavarack Harrison Rd, Campbell",
-            "displayAddress": true,
-            "latitude": -35.295233,
-            "longitude": 149.167642,
-            "openingHours": "Opening Hours: 9am to 4pm - 8am to 12pm (Friday)",
-            "displayOpeningHours": true,
-            "phoneNumber": "(02) 6248 0511",
+            "name": "reception",
+            "title": "IT Support (Australia)",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
+            "openingHours": "Opening Hours: 9am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "1300 333 000",
             "displayPhoneNumber": true,
-            "emailAddress": "",
-            "displayEmailAddress": false,
+            "emailAddress": "IT.ServiceDesk@downergroup.com",
+            "displayEmailAddress": true,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": true,
-            "displayMapMarker": true,
+            "displayMapButton": false,
+            "displayMapMarker": false,
             "mapMarker": {
                 "options": {
-                    "icon": "./assets/markers/local_hospital-24px.svg"
+                    "icon": "./assets/markers/local_phone-24px.svg"
                 }
             },
-            "displayInfoWindow": true,
-            "imageClassName": "health-centre-image",
+            "displayInfoWindow": false,
+            "imageClassName": "it-support-image",
             "iconClassName": "",
-            "detail": [
-                "In an emergency please call 000"
-            ],
-            "displayPosition": 0
+            "detail": [],
+            "displayPosition": 1
         },
-        
-       
+        {
+            "itemId": "4C658B15-E2A5-49D4-B048-EB729A72E8D2",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Payroll Support (Australia)",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
+            "openingHours": "Opening Hours: 9am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "1300 333 000",
+            "displayPhoneNumber": false,
+            "emailAddress": "payroll_helpdesk@downergroup.com",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_phone-24px.svg"
+                }
+            },
+            "displayInfoWindow": false,
+            "imageClassName": "payroll-support-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 2
+        },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
-            "isVisible": true,
+            "isVisible": false,
             "name": "security-incident",
-            "title": "Security Incident",
+            "title": "Security",
             "address": "",
             "displayAddress": false,
             "latitude": 0,
             "longitude": 0,
             "openingHours": "Opening Hours: 24/7",
             "displayOpeningHours": true,
-            "phoneNumber": "(02) 6265 7275",
+            "phoneNumber": "(03) 9999 9999",
             "displayPhoneNumber": true,
             "emailAddress": "",
             "displayEmailAddress": false,
@@ -59,11 +85,37 @@
             "imageClassName": "security-image-4",
             "iconClassName": "",
             "detail": [
-                "Report any suspicious behaviour or incident on-base",
-                "Examples: Armed intruder, someone walking around with RF recording equipment etc."
-            ],
-            "displayPosition": 1
+                "Report any suspicious behaviour or incident on-site"
+             ],
+            "displayPosition": 3
         },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
+            "isVisible": false,
+            "name": "medical-centre",
+            "title": "First Aid Facilities",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(03) 9999 9999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "medical-image-1",
+            "iconClassName": "",
+            "detail": [
+             ],
+            "displayPosition": 4
+        }
        
     ]
 }
