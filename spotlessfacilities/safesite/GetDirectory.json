@@ -106,7 +106,7 @@
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": false,
+            "displayMapButton": true,
             "displayMapMarker": true,
             "mapMarker": {
                 "options": {
