@@ -108,7 +108,7 @@
             "displaySubtitle": false,
             "displayMapButton": false,
             "displayMapMarker": true,
-             mapMarker": {
+            "mapMarker": {
                 "options": {
                     "icon": "./assets/markers/local_hospital-24px.svg"
                 }
