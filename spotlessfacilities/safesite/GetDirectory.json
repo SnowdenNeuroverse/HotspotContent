@@ -3,7 +3,7 @@
     "directoryItem": [  
         {
             "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
-            "isVisible": true,
+            "isVisible": false,
             "name": "reception",
             "title": "IT Support (Australia)",
             "address": "",
@@ -33,7 +33,7 @@
         },
         {
             "itemId": "4C658B15-E2A5-49D4-B048-EB729A72E8D2",
-            "isVisible": true,
+            "isVisible": false,
             "name": "reception",
             "title": "Payroll Support (Australia)",
             "address": "",
@@ -63,7 +63,7 @@
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
-            "isVisible": false,
+            "isVisible": true,
             "name": "security-incident",
             "title": "Security",
             "address": "",
@@ -91,7 +91,7 @@
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
-            "isVisible": false,
+            "isVisible": true,
             "name": "medical-centre",
             "title": "First Aid Facilities",
             "address": "",
