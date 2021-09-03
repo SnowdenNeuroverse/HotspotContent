@@ -3,18 +3,18 @@
     "directoryItem": [  
         {
             "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
-            "isVisible": false,
+            "isVisible": true,
             "name": "reception",
-            "title": "IT Support (Australia)",
+            "title": "Site Supervisor",
             "address": "",
             "displayAddress": false,
             "latitude": -37.8459316,
             "longitude": 145.04818264,
             "openingHours": "Opening Hours: 9am to 5pm",
             "displayOpeningHours": false,
-            "phoneNumber": "1300 333 000",
+            "phoneNumber": "0418 555 555",
             "displayPhoneNumber": true,
-            "emailAddress": "IT.ServiceDesk@downergroup.com",
+            "emailAddress": "site.supervisor@downergroup.com",
             "displayEmailAddress": true,
             "subtitle": "",
             "displaySubtitle": false,
@@ -22,7 +22,7 @@
             "displayMapMarker": false,
             "mapMarker": {
                 "options": {
-                    "icon": "./assets/markers/local_phone-24px.svg"
+                    "icon": "./assets/markers/baseline-reception-new-24px.svg"
                 }
             },
             "displayInfoWindow": false,
