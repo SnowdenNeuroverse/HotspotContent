@@ -19,7 +19,7 @@
             "eventUrl": "",
             "imageName": "safety-share-2.jpg",
             "imageClassName": "safety-share-image-2",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": true,
             "hasMenu": false
@@ -66,7 +66,7 @@
             "eventUrl": "",
             "imageName": "safety-share-1.jpg",
             "imageClassName": "safety-share-image-1",
-            "isActivated": true,
+            "isActivated": false,
             "isHighlighted": false,
             "isFeatured": false,
             "hasMenu": false
