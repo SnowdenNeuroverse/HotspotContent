@@ -62,7 +62,7 @@
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
-            "isVisible": true,
+            "isVisible": false,
             "name": "security-incident",
             "title": "Security",
             "address": "",
@@ -90,7 +90,7 @@
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
-            "isVisible": true,
+            "isVisible": false,
             "name": "medical-centre",
             "title": "First Aid Facilities",
             "address": "",
