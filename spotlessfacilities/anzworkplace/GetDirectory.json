@@ -105,8 +105,39 @@
             "displayEmailAddress": false,
             "subtitle": "",
             "displaySubtitle": false,
-            "displayMapButton": true,
-            "displayMapMarker": true,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hospital-24px.svg"
+                }
+             },
+            "displayInfoWindow": true,
+            "imageClassName": "medical-image-1",
+            "iconClassName": "",
+            "detail": [
+             ],
+            "displayPosition": 4
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA088",
+            "isVisible": true,
+            "name": "bike-service",
+            "title": "Bike Service",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -28.030190647499815,
+            "longitude": 153.18228446528326,
+            "openingHours": "Opening Hours: 8am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 333 222",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
             "mapMarker": {
                 "options": {
                     "icon": "./assets/markers/local_hospital-24px.svg"
