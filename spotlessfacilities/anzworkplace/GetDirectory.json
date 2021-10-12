@@ -1,0 +1,124 @@
+{
+    "directoryItem": [  
+        {
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Site Supervisor",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
+            "openingHours": "Opening Hours: 9am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "0418 555 555",
+            "displayPhoneNumber": true,
+            "emailAddress": "site.supervisor@downergroup.com",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/baseline-reception-new-24px.svg"
+                }
+            },
+            "displayInfoWindow": false,
+            "imageClassName": "it-support-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 1
+        },
+        {
+            "itemId": "4C658B15-E2A5-49D4-B048-EB729A72E8D2",
+            "isVisible": false,
+            "name": "reception",
+            "title": "Payroll Support (Australia)",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
+            "openingHours": "Opening Hours: 9am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "1300 333 000",
+            "displayPhoneNumber": false,
+            "emailAddress": "payroll_helpdesk@downergroup.com",
+            "displayEmailAddress": true,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_phone-24px.svg"
+                }
+            },
+            "displayInfoWindow": false,
+            "imageClassName": "payroll-support-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 2
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
+            "isVisible": true,
+            "name": "security-incident",
+            "title": "Security",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 333 000",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "security-image-4",
+            "iconClassName": "",
+            "detail": [
+                "Report any suspicious behaviour or incident on-site"
+             ],
+            "displayPosition": 3
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
+            "isVisible": true,
+            "name": "medical-centre",
+            "title": "First Aid Facilities",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -28.030190647499815,
+            "longitude": 153.18228446528326,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(07) 9999 9999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hospital-24px.svg"
+                }
+             },
+            "displayInfoWindow": true,
+            "imageClassName": "medical-image-1",
+            "iconClassName": "",
+            "detail": [
+             ],
+            "displayPosition": 4
+        }
+       
+    ]
+}
