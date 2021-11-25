@@ -28,7 +28,7 @@
             "imageClassName": "locker-image-1",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 1
+            "displayPosition": 2
         },
         {
             "itemId": "4C658B15-E2A5-49D4-B048-EB729A72E8D2",
@@ -58,7 +58,7 @@
             "imageClassName": "dry-cleaning-image-1",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 2
+            "displayPosition": 3
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
@@ -85,7 +85,7 @@
             "iconClassName": "",
             "detail": [                
              ],
-            "displayPosition": 3
+            "displayPosition": 4
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
@@ -116,7 +116,7 @@
             "iconClassName": "",
             "detail": [
              ],
-            "displayPosition": 4
+            "displayPosition": 5
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA088",
@@ -148,6 +148,37 @@
             "detail": [
              ],
             "displayPosition": 4
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA999",
+            "isVisible": true,
+            "name": "health-check",
+            "title": "Health Check",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -28.030190647499815,
+            "longitude": 153.18228446528326,
+            "openingHours": "Opening Hours: 8am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "1300 888 999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hospital-24px.svg"
+                }
+             },
+            "displayInfoWindow": true,
+            "imageClassName": "bike-service-image-2",
+            "iconClassName": "",
+            "detail": [
+             ],
+            "displayPosition": 1
         }
        
     ]
