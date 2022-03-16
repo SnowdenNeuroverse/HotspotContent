@@ -151,7 +151,7 @@
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA999",
-            "isVisible": true,
+            "isVisible": false,
             "name": "health-check",
             "title": "Health Check",
             "address": "",
@@ -162,6 +162,38 @@
             "displayOpeningHours": false,
             "phoneNumber": "1300 888 999",
             "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_hospital-24px.svg"
+                }
+             },
+            "displayInfoWindow": true,
+            "imageClassName": "medical-image-1",
+            "iconClassName": "",
+            "detail": [
+             ],
+            "displayPosition": 1
+        },
+        
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA789",
+            "isVisible": true,
+            "name": "theatre",
+            "title": "Theatre",
+            "address": "",
+            "displayAddress": false,
+            "latitude": -28.030190647499815,
+            "longitude": 153.18228446528326,
+            "openingHours": "Opening Hours: 8am to 5pm",
+            "displayOpeningHours": false,
+            "phoneNumber": "1300 888 999",
+            "displayPhoneNumber": false,
             "emailAddress": "",
             "displayEmailAddress": false,
             "subtitle": "",
