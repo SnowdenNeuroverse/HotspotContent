@@ -25,6 +25,32 @@
             "iconClassName": "",
             "detail": [],
             "displayPosition": 1
+        },
+        {
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Reception",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 6am to 8pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 111 999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "reception-image-1",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 2
         }
         
     ]
