@@ -24,7 +24,7 @@
             "imageClassName": "medical-image-2",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 1
+            "displayPosition": 2
         },
         {
             "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
@@ -50,7 +50,7 @@
             "imageClassName": "reception-image-1",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 2
+            "displayPosition": 1
         }
         
     ]
