@@ -1,35 +1,5 @@
 {
     "directoryItem": [  
-         {
-            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
-            "isVisible": true,
-            "name": "reception",
-            "title": "Coles Store Support Centre (HQ)",
-            "address": "800 Toorak Rd, Hawthorn East, 3123",
-            "displayAddress": true,
-            "latitude": -37.8459316,
-            "longitude": 145.04818264,
-            "openingHours": "Opening Hours: 9am to 5pm",
-            "displayOpeningHours": true,
-            "phoneNumber": "(03) 98293111",
-            "displayPhoneNumber": true,
-            "emailAddress": "",
-            "displayEmailAddress": false,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": true,
-            "displayMapMarker": true,
-            "mapMarker": {
-                "options": {
-                    "icon": "./assets/markers/local_phone-24px.svg"
-                }
-            },
-            "displayInfoWindow": true,
-            "imageClassName": "accomodation-image",
-            "iconClassName": "",
-            "detail": [],
-            "displayPosition": 1
-        },
         {
             "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
             "isVisible": true,
@@ -54,7 +24,7 @@
             "imageClassName": "medical-image-1",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 2
+            "displayPosition": 1
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
@@ -82,7 +52,7 @@
             "detail": [
                 "Report any suspicious behaviour or incident on-site"
              ],
-            "displayPosition": 3
+            "displayPosition": 2
         },
         {
             "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
@@ -112,7 +82,7 @@
             "imageClassName": "it-support-image",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 4
+            "displayPosition": 3
         },
     ]
 }
