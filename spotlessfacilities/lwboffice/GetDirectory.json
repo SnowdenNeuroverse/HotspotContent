@@ -2,7 +2,7 @@
     "directoryItem": [  
         {
             "itemId": "3232AA74-C1FA-49AA-BC28-7683AA5DA6F8",
-            "isVisible": false,
+            "isVisible": true,
             "name": "gymnasium",
             "title": "Fitness Centre",
             "address": "Campbell",
@@ -30,13 +30,13 @@
             "detail": [
                 "Temporarily Closed"
             ],
-            "displayPosition": 2
+            "displayPosition": 3
         },
         {
             "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
             "isVisible": true,
             "name": "reception",
-            "title": "Coles Store Support Centre (HQ)",
+            "title": "Reception",
             "address": "800 Toorak Rd, Hawthorn East, 3123",
             "displayAddress": true,
             "latitude": -37.8459316,
@@ -60,7 +60,7 @@
             "imageClassName": "accomodation-image",
             "iconClassName": "",
             "detail": [],
-            "displayPosition": 1
+            "displayPosition": 0
         },
         {
             "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
@@ -115,7 +115,7 @@
             "iconClassName": "",
             "detail": [
              ],
-            "displayPosition": 3
+            "displayPosition": 1
         }
     ]
 }
