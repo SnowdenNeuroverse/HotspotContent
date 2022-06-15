@@ -1,0 +1,121 @@
+{
+    "directoryItem": [  
+        {
+            "itemId": "3232AA74-C1FA-49AA-BC28-7683AA5DA6F8",
+            "isVisible": false,
+            "name": "gymnasium",
+            "title": "Fitness Centre",
+            "address": "Campbell",
+            "displayAddress": false,
+            "latitude": -35.300188,
+            "longitude": 149.160842,
+            "openingHours": "Opening Hours: 7am to 7pm (Mon - Fri)",
+            "displayOpeningHours": true,
+            "phoneNumber": "",
+            "displayPhoneNumber": false,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/baseline-fitness_center-new-red-24px.svg"
+                }
+            },
+            "displayInfoWindow": true,
+            "imageClassName": "gymnasium-image-1",
+            "iconClassName": "",
+            "detail": [
+                "Temporarily Closed"
+            ],
+            "displayPosition": 2
+        },
+        {
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Coles Store Support Centre (HQ)",
+            "address": "800 Toorak Rd, Hawthorn East, 3123",
+            "displayAddress": true,
+            "latitude": -37.8459316,
+            "longitude": 145.04818264,
+            "openingHours": "Opening Hours: 9am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "(03) 98293111",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": true,
+            "displayMapMarker": true,
+            "mapMarker": {
+                "options": {
+                    "icon": "./assets/markers/local_phone-24px.svg"
+                }
+            },
+            "displayInfoWindow": true,
+            "imageClassName": "accomodation-image",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 1
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA063",
+            "isVisible": false,
+            "name": "security-incident",
+            "title": "Security",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(03) 9999 9999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "security-image-4",
+            "iconClassName": "",
+            "detail": [
+                "Report any suspicious behaviour or incident on-site"
+             ],
+            "displayPosition": 2
+        },
+        {
+            "itemId": "C12EBD09-93F8-44B5-A5DF-98A52CEDA099",
+            "isVisible": true,
+            "name": "medical-centre",
+            "title": "First Aid Facilities",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 24/7",
+            "displayOpeningHours": true,
+            "phoneNumber": "(03) 9999 9999",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "medical-image-1",
+            "iconClassName": "",
+            "detail": [
+             ],
+            "displayPosition": 3
+        }
+    ]
+}
