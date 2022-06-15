@@ -116,36 +116,7 @@
             "detail": [
              ],
             "displayPosition": 1
-        },
-        {
-            "itemId": "1777F1F3-460E-447F-9D40-9828878AEC3E",
-            "isVisible": true,
-            "name": "reception",
-            "title": "IT Support (Australia)",
-            "address": "",
-            "displayAddress": false,
-            "latitude": -37.8459316,
-            "longitude": 145.04818264,
-            "openingHours": "Opening Hours: 9am to 5pm",
-            "displayOpeningHours": false,
-            "phoneNumber": "1300 333 000",
-            "displayPhoneNumber": true,
-            "emailAddress": "IT.ServiceDesk@downergroup.com",
-            "displayEmailAddress": true,
-            "subtitle": "",
-            "displaySubtitle": false,
-            "displayMapButton": false,
-            "displayMapMarker": false,
-            "mapMarker": {
-                "options": {
-                    "icon": "./assets/markers/local_phone-24px.svg"
-                }
-            },
-            "displayInfoWindow": false,
-            "imageClassName": "it-support-image",
-            "iconClassName": "",
-            "detail": [],
-            "displayPosition": 4
-        },
+        }
+       
     ]
 }
