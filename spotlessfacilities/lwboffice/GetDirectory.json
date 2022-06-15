@@ -75,7 +75,9 @@
             "displayInfoWindow": false,
             "imageClassName": "security-image-4",
             "iconClassName": "",
-            "detail": [],
+            "detail": [
+                "Report any suspicious behaviour or incident on-site"
+             ],
             "displayPosition": 3
         }
     ]
