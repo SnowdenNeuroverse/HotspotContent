@@ -1,0 +1,30 @@
+{
+    "directoryItem": [  
+        {
+            "itemId": "1777F1F3-460E-447F-9D40-9828878AE999",
+            "isVisible": true,
+            "name": "reception",
+            "title": "Reception",
+            "address": "",
+            "displayAddress": false,
+            "latitude": 0,
+            "longitude": 0,
+            "openingHours": "Opening Hours: 7am to 5pm",
+            "displayOpeningHours": true,
+            "phoneNumber": "1300 222 222",
+            "displayPhoneNumber": true,
+            "emailAddress": "",
+            "displayEmailAddress": false,
+            "subtitle": "",
+            "displaySubtitle": false,
+            "displayMapButton": false,
+            "displayMapMarker": false,
+            "mapMarker": {},
+            "displayInfoWindow": false,
+            "imageClassName": "reception-image-1",
+            "iconClassName": "",
+            "detail": [],
+            "displayPosition": 1
+        }
+   ]
+}
