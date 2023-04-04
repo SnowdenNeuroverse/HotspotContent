@@ -2,23 +2,13 @@
     "alert": [
         {
             "alertId": "AD2AD052-C7C5-468B-A7CD-F384D878E899",
-            "alertTitle": "Dry Cleaning Ready",
+            "alertTitle": "Locker Booked",
             "alertType": {
                 "alertTypeId": "3",
                 "name": "Notification"
             },
-            "sentDateTime": "2022-01-01T18:12:18",
+            "sentDateTime": "2023-04-04T18:12:18",
             "messageRead": false
-       },
-       {
-            "alertId": "AD2AD052-C7C5-468B-A7CD-F384D878E80B",
-            "alertTitle": "Bike Service Completed",
-            "alertType": {
-                "alertTypeId": "3",
-                "name": "Notification"
-            },
-            "sentDateTime": "2022-01-03T12:32:33",
-            "messageRead": false
-        }
+       }      
    ]
 }
